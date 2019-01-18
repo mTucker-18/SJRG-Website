@@ -1,0 +1,18 @@
+:root {
+
+}
+
+body {
+  background-image: url(temp_photo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0% 23%;
+}
+
+h1, h2 {
+  font-family: 'Lora', 'Times New Roman', serif;
+  color: white;
+  text-shadow: 2px 2px black;
+  text-align: center;
+  font-size: 3vw;
+}
